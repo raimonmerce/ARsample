@@ -1,0 +1,8 @@
+0
+640 480
+700
+./mqo/ninja/ninja_motion_katana.mqo
+0.3
+15
+30
+
