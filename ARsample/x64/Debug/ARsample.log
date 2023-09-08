@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinición de macro
+C:\glfw\include\GLFW\glfw3.h(123): message : vea la definición anterior de 'APIENTRY'
+  jpeg.lib(jerror.obj) : se encontró .netmodule MSIL o un módulo compilado con /GL; reiniciando la vinculación con /LTCG; agregue /LTCG a la línea de comandos de vínculo para mejorar el rendimiento del vinculador
+LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/LTCG'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+  Generación de código finalizada
+jpeg.lib(jerror.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jerror.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdapimin.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdapimin.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdatasrc.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdatasrc.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdapistd.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdapistd.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jcomapi.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jcomapi.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jmemmgr.obj) : warning LNK4099: no se encontró PDB '' con 'jpeg.lib(jmemmgr.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdmarker.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdmarker.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdinput.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdinput.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdmaster.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdmaster.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jmemnobs.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jmemnobs.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jutils.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jutils.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jquant1.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jquant1.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdmerge.obj) : warning LNK4099: no se encontró PDB '' con 'jpeg.lib(jdmerge.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdsample.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdsample.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdhuff.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdhuff.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jquant2.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jquant2.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdarith.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdarith.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdcoefct.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdcoefct.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdcolor.obj) : warning LNK4099: no se encontró PDB '' con 'jpeg.lib(jdcolor.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdmainct.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdmainct.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jddctmgr.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jddctmgr.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jdpostct.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jdpostct.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jaricom.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jaricom.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jidctint.obj) : warning LNK4099: no se encontró PDB 'jpeg.pdb' con 'jpeg.lib(jidctint.obj)' o en 'C:\ARsample\ARsample\x64\Debug\jpeg.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jidctfst.obj) : warning LNK4099: no se encontró PDB '' con 'jpeg.lib(jidctfst.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+jpeg.lib(jidctflt.obj) : warning LNK4099: no se encontró PDB '' con 'jpeg.lib(jidctflt.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  ARsample.vcxproj -> C:\ARsample\ARsample\x64\Debug\ARsample.exe
